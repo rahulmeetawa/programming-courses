@@ -1,2 +1,5 @@
-# programming-courses
-A comprehensive repository of programming courses and tutorials for beginners to advanced learners, covering modern programming languages, frameworks, and development tools.
+# 💻 Programming Courses
+
+A curated collection of programming courses, tutorials, and learning resources covering programming languages, web development, frameworks, databases, DevOps, and software engineering.
+
+---
